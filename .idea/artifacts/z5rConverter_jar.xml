@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="z5rConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/z5rConverter_jar</output-path>
+    <root id="archive" name="z5rConverter.jar">
+      <element id="module-output" name="z5rConverter" />
+    </root>
+  </artifact>
+</component>
